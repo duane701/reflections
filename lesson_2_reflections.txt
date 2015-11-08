@@ -1,0 +1,13 @@
+# What happens when you initialize a repository? Why do you need to do it?
+
+Initilizing the repository creates the .git directory. The .git directory
+and its contents allow git to recognize that this is a git repository and
+track the status of the repository.
+
+# How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+The staging area is the link between the working directory and the
+repository. The staging area gives you clear opportunity to adjust what
+elements of the working directory go into the repository.
+
