@@ -1,0 +1,4 @@
+# When would you want to use a remote repository rather than keeping all your work local?
+
+When you want to share with other people. When you want a backup of your code so you don't loose it.
+
