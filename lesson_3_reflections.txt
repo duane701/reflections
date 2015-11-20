@@ -30,3 +30,9 @@ You have a complete history of all of the changes. This allows you to
 continue working while disconnected from the remote. git can sort out any
 required changes when you get back to the remote.
 
+# How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+Almost everything harder. You could use email or sneaker net to copy files
+around. Ick.
+
