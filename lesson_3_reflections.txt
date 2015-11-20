@@ -8,3 +8,19 @@ automatically stay up-to-date with your remote repository?
 Pulling automatically avoids unexpected changes to your code. Most
 importantly it avoids unexpected conflicts.
 
+# Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+
+* Forks create new repositories on GitHub.
+* Clones create a link between a remote and local workspace.
+* Branches give you inddependent areas to work.
+
+Fork when you like someone elses work and want to start with it or when you
+want to work with them.
+
+Clone in order to have a remote for your work where you can share with
+others on the same project.
+
+Branch in order to keep your work all separate and independent.
+
+
