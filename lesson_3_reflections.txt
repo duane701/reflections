@@ -2,3 +2,9 @@
 
 When you want to share with other people. When you want a backup of your code so you don't loose it.
 
+# Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+Pulling automatically avoids unexpected changes to your code. Most
+importantly it avoids unexpected conflicts.
+
