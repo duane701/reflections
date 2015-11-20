@@ -36,3 +36,10 @@ and what would be harder?
 Almost everything harder. You could use email or sneaker net to copy files
 around. Ick.
 
+# When would you want to make changes in a separate branch rather than
+directly in master? What benefits does each approach have?
+
+Don't ever make changes directly on master. Master is for forward work done in other branches.
+
+There is no other approach!
+
