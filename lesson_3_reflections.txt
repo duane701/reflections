@@ -23,4 +23,10 @@ others on the same project.
 
 Branch in order to keep your work all separate and independent.
 
+# What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+You have a complete history of all of the changes. This allows you to
+continue working while disconnected from the remote. git can sort out any
+required changes when you get back to the remote.
 
