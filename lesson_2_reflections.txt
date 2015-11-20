@@ -11,3 +11,31 @@ The staging area is the link between the working directory and the
 repository. The staging area gives you clear opportunity to adjust what
 elements of the working directory go into the repository.
 
+# How can you use the staging area to make sure you have one commit per
+logical change?
+
+Use git status and git diff to view the contents of the staging area.
+
+# What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+Bug fixes and experiments can proceed without affects on the current working
+project. Multiple people working on the same project at the same time.
+
+# How do the diagrams help you visualize the branch structure?
+
+The diagrams help to show how the commits are connected to each other as
+well as which commits are reachable.
+
+# What is the result of merging two branches together? Why do we represent it
+in the diagram the way we do?
+
+Merging two branches combines all of the changes from one branch into the
+other branch. The diagram show that there are two parents to the merge
+commit.
+
+# What are the pros and cons of Git’s automatic merging vs. always doing
+merges manually?
+
+Ick, merging manually is a royal pain. Computers are much smarter.
+
